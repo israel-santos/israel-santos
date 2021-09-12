@@ -1,2 +1,1 @@
 - 👋  ola, sou israel santos
-- 🌱 Atualmente sou  iniciante na área da programação
